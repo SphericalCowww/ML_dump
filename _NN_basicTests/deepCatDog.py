@@ -6,7 +6,7 @@ from tensorflow.keras.layers import Dense, Dropout, Activation, Flatten, Conv2D,
 import matplotlib.pyplot as plt
 import matplotlib.image as mpimg
 import cv2
-#import magic
+import magic
 import shutil
 import random
 import pickle
